@@ -1,0 +1,6 @@
+[submodule "printers-drivers"]
+	path = printers-drivers
+	url = git@github.com:LongYinStudio/printers-drivers.git
+[submodule "video-downloader"]
+	path = video-downloader
+	url = git@github.com:LongYinStudio/video-downloader.git
